@@ -1,0 +1,4 @@
+2023-02-03 19:38:26,180: INFO _welcome-362 Bot: some_bot [@unknown_some_bot]
+2023-02-03 19:38:26,181: INFO start_polling-358 Start polling.
+2023-02-03 19:38:34,193: INFO start_handler-26 user_id=737855267 user_bot=False user_message='/start'
+2023-02-03 19:41:06,642: INFO start_handler-26 user_id=854723500 user_bot=False user_message='/start'
